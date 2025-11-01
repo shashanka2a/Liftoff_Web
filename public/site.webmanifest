@@ -1,0 +1,19 @@
+{
+  "name": "Liftoff - Premium SaaS Design & Development",
+  "short_name": "Liftoff",
+  "description": "Transform your bold ideas into production-ready products",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#6C63FF",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "orientation": "portrait-primary"
+}
+
