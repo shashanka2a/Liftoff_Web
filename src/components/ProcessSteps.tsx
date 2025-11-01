@@ -148,7 +148,15 @@ export function ProcessSteps() {
                               ease: "easeInOut"
                             }}
                           />
-                          <Icon className="w-[72px] h-[72px] text-white relative z-10" />
+                          <Icon 
+                            className="w-[72px] h-[72px] text-white relative z-10" 
+                            strokeWidth={2.5}
+                            style={{ 
+                              display: 'block',
+                              margin: '0 auto',
+                              flexShrink: 0
+                            }} 
+                          />
                         </div>
                         
                         {/* Floating badge */}
